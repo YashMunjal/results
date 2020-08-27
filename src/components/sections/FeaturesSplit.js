@@ -98,7 +98,7 @@ const FeaturesSplit = ({
                   </h3>
                 <p className="m-0">
                 <p> 2<sup>nd</sup> Position</p>
-                <p>By: Next Door Ally</p>
+                <p>By: Team Cyphers</p>
                 <a href="https://hvirmani.github.io/-BLACKLIVESMATTER/" target="_blank" rel="noopener noreferrer"><Button color="dark">Visit</Button></a>
                   </p>
               </div>
