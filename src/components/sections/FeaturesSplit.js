@@ -177,7 +177,7 @@ const FeaturesSplit = ({
                   </h3>
                 <p className="m-0">
                 <p> Best Individual Website</p>
-                <p>By: Brogrammers</p>
+                <p>By: Web Noob</p>
                 <a href="https://yashmunjal.tech/himanshu-covid/" target="_blank" rel="noopener noreferrer"><Button color="dark">Visit</Button></a>
                   </p>
               </div>
